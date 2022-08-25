@@ -1,4 +1,4 @@
 Version : 0.2-beta
 Created by : Nishikoto (NHK)
 
-https://github.com/Nishikoto/nFunc
+https://github.com/Nishikoto/nFunc/releases
